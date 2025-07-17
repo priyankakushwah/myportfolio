@@ -88,9 +88,8 @@
         }
 
         /* Main Content */
-        i {
-    font-family: 'FontAwesome';
-}
+ 
+
         .main-content {
             padding: 4rem 0;
             background: var(--bg-light);
